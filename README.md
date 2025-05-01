@@ -1,4 +1,4 @@
-# Hausaufgabe 3 - Aufgabe 1
+# Hausaufgabe 3 - Aufgabe 3.1 und 3.2
 
 Dieses Projekt wurde im Rahmen der Lehrveranstaltung ETE104 als Teil der dritten Hausaufgabe erstellt.  
 Es wurde mit dem Mikrocontroller MSP430 programmiert. Der Code steuert das Verhalten einer LED, die je nach Tastendruck ein- oder ausgeschaltet wird.
